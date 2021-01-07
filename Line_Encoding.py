@@ -1,7 +1,7 @@
 import random
 from matplotlib import pyplot as plt
 
-########################################################### PALINDROME  ############################
+########################################################### PALINDROME  #############################
 def lps(st) :
     string_list = [str(x) for x in st]
     new_st = ""
